@@ -21,8 +21,11 @@ tags: []
 Probabilmente per i guru dell'e-commerce questo articolo non sarà una novità. Per quelli che invece sono alle prime armi può essere di grande aiuto. Mi sono sempre trovato davanti alle solite email di phishing, soliti metodi da dieci o vent'anni: "ti stan rubando la carta", "controlla i tuoi dati", bla bla bla.
 
 Ribaltando la situazione, mi trovo a dover aiutare un amico a *vendere degli oggetti su ebay*. Gli spiego come metterli online e nel giro di pochi giorni arriva un acquirente:
+
 > hello friend,i just view your item and am very interested in it,kindly get back to me with your price in euro
+
 Dopo una breve contrattazione il ragazzo sembra molto disponibile:
+
 > Thanks for your response. am ok with the price you are willing to sell your item for me in euro,kindly get back to me with your paypal email  i will paying you
 > directly into your PayPal account without any delay. Get back to me with
 > the details below :
@@ -37,6 +40,7 @@ Dopo una breve contrattazione il ragazzo sembra molto disponibile:
 
 Ok, l'inglese non è perfetto ma... who cares? Sembra tutto normale.
 Rispondo fornendo i dati necessari e qualche ora dopo mi arriva una sua risposta:
+
 > have just receive an alert from PayPal Customer Care with the
 > confirmation email that the payment has been made,a total of 450euro
 > was sent 200euro for the (GOODS) Purchased and the extra 200euro
