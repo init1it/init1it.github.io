@@ -110,5 +110,6 @@ Ormai è quasi sicuro siano truffatori. Ma non sono ancora convinto, provo a goo
 [Secondo risultato di Google](http://www.ebay.com/gds/Paypal-Scamming-SPOOF-E-MAILS-BEWARE-FORGEIN-BUYERS-/10000000012904401/g.html)
 
 Inoltro le varie email a <spoof@paypal.com> e mi confermano che è una truffa.
+
 Nice try, furboni! :D
-&nbsp;
+
